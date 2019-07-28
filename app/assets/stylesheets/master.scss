@@ -36,8 +36,11 @@
 
 .links a {
   color: black;
-  font-size: 25px;
+  font-size: 20px;
   border-bottom: 1px solid #dfdfdf;
+  font-family: 'edmundsregular';
+  font-weight: lighter;
+  
 }
 
 header {
@@ -46,4 +49,19 @@ header {
 
 hr{
   clear: both;
+}
+
+h1{
+
+  font-family: 'edmundsregular';
+  font-weight: lighter;
+  
+    
+  }
+
+  h2 {
+  font-family: 'edmundsregular';
+  font-weight: lighter;
+  font-size: 28px;
+  
 }
